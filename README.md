@@ -1,2 +1,3 @@
-# pyhonu
-Python driver and api client for HonuDB
+# Honu Python Drivers
+
+**Python driver and API client for the Honu replicated database.**
